@@ -27,5 +27,7 @@
 - Javier Solís
 - Pedro Infante
 - Cornelio Reyna
-
-  
+# Salsa
+- Héctor Lavoe
+- Willie Colón
+- Adolescent’s Orquesta  
