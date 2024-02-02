@@ -15,3 +15,7 @@
 - Sharif
 - Rapsusklei
 - Nash
+# Future funk
+- Nanidato
+- Night Tempo
+- Android52
