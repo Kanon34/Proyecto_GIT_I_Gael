@@ -7,3 +7,7 @@
 - Álvaro Carrillo
 - José Antonio Méndez
 - Armando Manzanero 
+# Reggae
+- Cultura Profética
+- Golden Ganga
+- Bob Marley
