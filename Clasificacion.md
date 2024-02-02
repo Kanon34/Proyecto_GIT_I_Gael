@@ -19,3 +19,7 @@
 - Nanidato
 - Night Tempo
 - Android52
+# R&B
+- Mac Ayres
+- Raveena
+- Puma Blue
