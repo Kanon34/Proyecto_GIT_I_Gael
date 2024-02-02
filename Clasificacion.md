@@ -11,3 +11,7 @@
 - Cultura Profética
 - Golden Ganga
 - Bob Marley
+# Rap Español
+- Sharif
+- Rapsusklei
+- Nash
