@@ -15,3 +15,5 @@
 - Generación de reportes básicos (select,count, distict, inner, outer, left, right). 
 ## Proyectos SAS
 - Generación de reportes estadísticos bancarios.
+## Proyectos C++
+- Programa para cálcular estados de cuenta. 
