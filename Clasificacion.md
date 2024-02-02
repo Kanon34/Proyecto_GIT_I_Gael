@@ -23,3 +23,9 @@
 - Mac Ayres
 - Raveena
 - Puma Blue
+# Regional Mexicana
+- Javier Solís
+- Pedro Infante
+- Cornelio Reyna
+
+  
