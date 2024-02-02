@@ -11,3 +11,5 @@
 - Calculadora Pagina Web
 ## Proyectos R
 - Cálculo de estadísticas básicas.
+## Proyectos SQL
+- Generación de reportes básicos (select,count, distict, inner, outer, left, right). 
