@@ -9,3 +9,5 @@
 - Práctica Tira led RGB (Modelo 5050).
 ## Proyectos Java
 - Calculadora Pagina Web
+## Proyectos R
+- Cálculo de estadísticas básicas.
