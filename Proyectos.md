@@ -7,3 +7,15 @@
 - Práctica semáforo (Encendido intermitente de tres leds en serie).
 - Práctica sensor de proximidad (Uso del sensor de distancia por ultrasonido / Modelo HC-SR04).
 - Práctica Tira led RGB (Modelo 5050).
+## Proyectos Java
+- Calculadora Pagina Web
+## Proyectos R
+- Cálculo de estadísticas básicas.
+## Proyectos SQL
+- Generación de reportes básicos (select,count, distict, inner, outer, left, right). 
+## Proyectos SAS
+- Generación de reportes estadísticos bancarios.
+## Proyectos C++
+- Programa para cálcular estados de cuenta.
+## Proyectos GIT
+- Configuración GITHUB. 
